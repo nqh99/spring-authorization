@@ -12,7 +12,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @Setter
 @Getter
-public class User {
+public class UserMdl {
     private String username;
     private String password;
     private String name;
