@@ -4,7 +4,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import com.example.configures.SecurityCfg;
 import com.example.dao.OperatorLoginDAO;
 import com.example.entity.UserMdl;
 
